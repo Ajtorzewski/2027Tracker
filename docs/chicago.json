@@ -16,7 +16,7 @@
     "ward": 1,
     "cycle": 2027,
     "status": "incumbent",
-    "site": "",
+    "site": "https://www.daniellaspata.com/",
     "donate": "neighbors-for-daniel-la-spata-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-1"
@@ -27,7 +27,7 @@
     "ward": 1,
     "cycle": 2023,
     "status": "",
-    "site": "",
+    "site": "http://yepezforchicago.com",
     "donate": "laura-yepez-1",
     "stale": true,
     "jurisdiction": "Chicago-Exec Coun-1"
@@ -71,7 +71,7 @@
     "ward": 3,
     "cycle": 2027,
     "status": "incumbent",
-    "site": "",
+    "site": "http://www.citizensforpatdowell.com",
     "donate": "citizens-for-pat-dowell-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-3"
@@ -82,7 +82,7 @@
     "ward": 3,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://raheemfor3.com",
     "donate": "raheemfor3",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-3"
@@ -93,7 +93,7 @@
     "ward": 4,
     "cycle": 2027,
     "status": "incumbent",
-    "site": "",
+    "site": "https://www.votelamontrobinson.com",
     "donate": "lamont-robinson-for-alderman-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-4"
@@ -115,7 +115,7 @@
     "ward": 6,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "https://voteforallyson.com/",
     "donate": "friendsofallysonlaunch",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-6"
@@ -137,7 +137,7 @@
     "ward": 7,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://www.electcher7thward.com",
     "donate": "electcher7th",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-7"
@@ -159,7 +159,7 @@
     "ward": 7,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "https://www.sheilaforthe7thward.com/",
     "donate": "sheila-gunn-ward-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-7"
@@ -170,7 +170,7 @@
     "ward": 8,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://aldermanmichelleharris.net",
     "donate": "michelle-harris-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-8"
@@ -181,7 +181,7 @@
     "ward": 9,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "https://www.ward09.com/",
     "donate": "citizens-to-elect-anthony-beale-2",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-9"
@@ -214,7 +214,7 @@
     "ward": 12,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://claudiafor12thward.com",
     "donate": "claudia-zuno-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-12"
@@ -236,7 +236,7 @@
     "ward": 14,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://jeylugutierrez.com",
     "donate": "jeylugutierrez",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-14"
@@ -247,7 +247,7 @@
     "ward": 15,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://raymondalopez.com",
     "donate": "raymond-lopez-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-15"
@@ -269,7 +269,7 @@
     "ward": 16,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://www.stephaniedcoleman.com",
     "donate": "f-o-s-c-16",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-16"
@@ -280,7 +280,7 @@
     "ward": 17,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://Citizenstoelectdavidmoore.com",
     "donate": "citizens-for-moore-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-17"
@@ -313,7 +313,7 @@
     "ward": 20,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://tsheygebreforthe20thward.com",
     "donate": "tshey-gebre-for-20th-ward",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-20"
@@ -324,7 +324,7 @@
     "ward": 21,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://RonnieMosley.com",
     "donate": "friends-of-ronnie-mosley-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-21"
@@ -335,7 +335,7 @@
     "ward": 22,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://www.mikerodriguez.org",
     "donate": "friends-of-michael-d--rodriguez-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-22"
@@ -346,7 +346,7 @@
     "ward": 23,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://www.ward23.org",
     "donate": "friends-of-tabares-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-23"
@@ -379,7 +379,7 @@
     "ward": 25,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://sigchofor25.com",
     "donate": "byron-sigcho-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-25"
@@ -390,7 +390,7 @@
     "ward": 25,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://watkinsfor25th.com",
     "donate": "ian-watkins-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-25"
@@ -401,7 +401,7 @@
     "ward": 25,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://www.leofor25.com",
     "donate": "leofor25",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-25"
@@ -412,7 +412,7 @@
     "ward": 25,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://chaconfor25.com",
     "donate": "miguel-chacon-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-25"
@@ -423,7 +423,7 @@
     "ward": 26,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://www.jessiefor26thward.com",
     "donate": "friends-of-jessie-fuentes-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-26"
@@ -445,7 +445,7 @@
     "ward": 27,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://building27together.com",
     "donate": "walter--red--burnett-27",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-27"
@@ -467,7 +467,7 @@
     "ward": 28,
     "cycle": 2023,
     "status": "",
-    "site": "",
+    "site": "http://www.AldermanErvin.com",
     "donate": "jason-c--ervin-1",
     "stale": true,
     "jurisdiction": "Chicago-Exec Coun-28"
@@ -489,7 +489,7 @@
     "ward": 30,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://www.RuthCruzfor30.com",
     "donate": "ruthcruzfor30",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-30"
@@ -511,7 +511,7 @@
     "ward": 32,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://patrickfor32.com",
     "donate": "patrick-gilsenan-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-32"
@@ -522,7 +522,7 @@
     "ward": 32,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://scottforchicago.com/",
     "donate": "alderman-scott-waguespack-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-32"
@@ -555,7 +555,7 @@
     "ward": 35,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://www.carlosrosa.org",
     "donate": "carlos-ramirez-rosa-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-35"
@@ -566,7 +566,7 @@
     "ward": 35,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://tobonfor35.org",
     "donate": "daniel-tobon-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-35"
@@ -610,7 +610,7 @@
     "ward": 37,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://votekobeylofton.com",
     "donate": "votekobeylofton",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-37"
@@ -621,7 +621,7 @@
     "ward": 39,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://samanthanugent39.com",
     "donate": "samnugent-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-39"
@@ -643,7 +643,7 @@
     "ward": 42,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://reillyforchicago.com",
     "donate": "citizens-for-alderman-reilly-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-42"
@@ -654,7 +654,7 @@
     "ward": 43,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "https://www.knudsenfor43.com",
     "donate": "friends-of-timmy-knudsen-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-43"
@@ -676,7 +676,7 @@
     "ward": 44,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://www.dj@djdoran.com",
     "donate": "team-dj",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-44"
@@ -687,7 +687,7 @@
     "ward": 44,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://kalenfor44.com",
     "donate": "kalen-luciano",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-44"
@@ -709,7 +709,7 @@
     "ward": 45,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://leah45.com",
     "donate": "leah-pouw-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-45"
@@ -720,7 +720,7 @@
     "ward": 45,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://SGDfor45.com",
     "donate": "sgdfor45",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-45"
@@ -731,7 +731,7 @@
     "ward": 46,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://www.angelafor46.com",
     "donate": "neighbors-for-angela-clay",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-46"
@@ -753,7 +753,7 @@
     "ward": 48,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://www.lenifor48th.com",
     "donate": "friends-of-leni-manaa-hoppenworth-1",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-48"
@@ -764,7 +764,7 @@
     "ward": 48,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://troy48.com",
     "donate": "troy-mcmillan-48",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-48"
@@ -786,7 +786,7 @@
     "ward": 49,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://www.mariafor49.org",
     "donate": "mariafor49",
     "stale": false,
     "jurisdiction": "Chicago-Exec Coun-49"
@@ -819,7 +819,7 @@
     "ward": null,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://www.voteannavalencia.com",
     "donate": "valencia-for-chicago-1",
     "stale": false,
     "jurisdiction": "Chicago-Clerk-"
@@ -830,7 +830,7 @@
     "ward": null,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://www.brandonforchicago.com",
     "donate": "friends-of-brandon-johnson-1",
     "stale": false,
     "jurisdiction": "Chicago-Mayor-"
@@ -841,7 +841,7 @@
     "ward": null,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://jabforillinois.com",
     "donate": "jabaritaylor",
     "stale": false,
     "jurisdiction": "Chicago-Mayor-"
@@ -863,7 +863,7 @@
     "ward": null,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://johnkellyforchi.com",
     "donate": "johnkellyformayor",
     "stale": false,
     "jurisdiction": "Chicago-Mayor-"
@@ -874,7 +874,7 @@
     "ward": null,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://Stantonforchicago.com",
     "donate": "stantonforchicago",
     "stale": false,
     "jurisdiction": "Chicago-Mayor-"
@@ -907,7 +907,7 @@
     "ward": null,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "http://susanamendoza.com",
     "donate": "susanaforchicago",
     "stale": false,
     "jurisdiction": "Chicago-Mayor-"
@@ -929,7 +929,7 @@
     "ward": null,
     "cycle": 2027,
     "status": "",
-    "site": "",
+    "site": "https://williewilson2027.com/",
     "donate": "willie-wilson-1",
     "stale": false,
     "jurisdiction": "Chicago-Mayor-"
