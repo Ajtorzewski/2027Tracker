@@ -1,0 +1,36 @@
+name: Publish Chicago directory data
+
+# Scans ActBlue on a schedule and writes docs/chicago.json, which the
+# GitHub Pages site reads. This is what keeps the hosted directory fresh.
+
+on:
+  schedule:
+    - cron: "0 * * * *"       # top of every hour
+  workflow_dispatch: {}       # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+
+      - name: Scan ActBlue and write site data
+        run: |
+          mkdir -p docs
+          python actblue_scan.py --once --json docs/chicago.json
+          echo "Wrote $(python -c "import json;print(len(json.load(open('docs/chicago.json'))))") Chicago rows."
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "directory-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/chicago.json
+          git commit -m "Update directory data ($(date -u +%F))" || echo "no changes"
+          git push
