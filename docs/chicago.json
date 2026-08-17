@@ -165,6 +165,17 @@
     "jurisdiction": "Chicago-Exec Coun-7"
   },
   {
+    "name": "Jaye Jones",
+    "office": "alderman",
+    "ward": 8,
+    "cycle": 2027,
+    "status": "",
+    "site": "http://jonesfor8thward.com",
+    "donate": "jaye-jones-1",
+    "stale": false,
+    "jurisdiction": "Chicago-Exec Coun-8"
+  },
+  {
     "name": "Michelle Harris",
     "office": "alderman",
     "ward": 8,
