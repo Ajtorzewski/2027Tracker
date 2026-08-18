@@ -550,6 +550,17 @@
     "jurisdiction": "Chicago-Exec Coun-34"
   },
   {
+    "name": "Nathan Bean",
+    "office": "alderman",
+    "ward": 34,
+    "cycle": 2027,
+    "status": "",
+    "site": "http://votethebean.com",
+    "donate": "nathan-bean-1",
+    "stale": false,
+    "jurisdiction": "Chicago-Exec Coun-34"
+  },
+  {
     "name": "Paul Jacobs",
     "office": "alderman",
     "ward": 34,
