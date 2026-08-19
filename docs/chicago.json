@@ -539,6 +539,17 @@
     "jurisdiction": "Chicago-Exec Coun-32"
   },
   {
+    "name": "Maria Gordils",
+    "office": "alderman",
+    "ward": 33,
+    "cycle": 2027,
+    "status": "",
+    "site": "",
+    "donate": "maria-gordils-1",
+    "stale": false,
+    "jurisdiction": "Chicago-Exec Coun-33"
+  },
+  {
     "name": "Bill Conway",
     "office": "alderman",
     "ward": 34,
