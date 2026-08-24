@@ -693,6 +693,17 @@
     "jurisdiction": "Chicago-Exec Coun-42"
   },
   {
+    "name": "Michael Keating",
+    "office": "alderman",
+    "ward": 43,
+    "cycle": 2027,
+    "status": "",
+    "site": "",
+    "donate": "michael-keating-1",
+    "stale": false,
+    "jurisdiction": "Chicago-Exec Coun-43"
+  },
+  {
     "name": "Timmy Knudsen",
     "office": "alderman",
     "ward": 43,
