@@ -308,6 +308,17 @@
     "jurisdiction": "Chicago-Exec Coun-19"
   },
   {
+    "name": "Jarquetta Egeston",
+    "office": "alderman",
+    "ward": 20,
+    "cycle": 2027,
+    "status": "",
+    "site": "http://jarquettafor20.com",
+    "donate": "jarquettafor20",
+    "stale": false,
+    "jurisdiction": "Chicago-Exec Coun-20"
+  },
+  {
     "name": "Jeanette B. Taylor",
     "office": "alderman",
     "ward": 20,
