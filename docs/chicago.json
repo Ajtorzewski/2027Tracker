@@ -110,6 +110,17 @@
     "jurisdiction": "Chicago-Exec Coun-5"
   },
   {
+    "name": "Ryan Greenlaw",
+    "office": "alderman",
+    "ward": 5,
+    "cycle": 2027,
+    "status": "",
+    "site": "",
+    "donate": "ryan-greenlaw-1",
+    "stale": false,
+    "jurisdiction": "Chicago-Exec Coun-5"
+  },
+  {
     "name": "Allyson Scrutchens",
     "office": "alderman",
     "ward": 6,
