@@ -957,6 +957,17 @@
     "jurisdiction": "Chicago-Mayor-"
   },
   {
+    "name": "Lisa Nee",
+    "office": "mayor",
+    "ward": null,
+    "cycle": 2027,
+    "status": "",
+    "site": "",
+    "donate": "lisa-nee-1",
+    "stale": false,
+    "jurisdiction": "Chicago-Mayor-"
+  },
+  {
     "name": "Matthew Brewer",
     "office": "mayor",
     "ward": null,
