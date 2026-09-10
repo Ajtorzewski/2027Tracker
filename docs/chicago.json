@@ -319,6 +319,17 @@
     "jurisdiction": "Chicago-Exec Coun-17"
   },
   {
+    "name": "Erin Ross",
+    "office": "alderman",
+    "ward": 19,
+    "cycle": 2027,
+    "status": "",
+    "site": "http://erinross19.com",
+    "donate": "erin-ross-1",
+    "stale": false,
+    "jurisdiction": "Chicago-Exec Coun-19"
+  },
+  {
     "name": "Matt O'Shea",
     "office": "alderman",
     "ward": 19,
