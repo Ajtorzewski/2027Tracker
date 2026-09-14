@@ -385,6 +385,17 @@
     "jurisdiction": "Chicago-Exec Coun-21"
   },
   {
+    "name": "Elianne Bahena",
+    "office": "alderman",
+    "ward": 22,
+    "cycle": 2027,
+    "status": "",
+    "site": "",
+    "donate": "elianne-bahena-1",
+    "stale": false,
+    "jurisdiction": "Chicago-Exec Coun-22"
+  },
+  {
     "name": "Michael Rodriguez",
     "office": "alderman",
     "ward": 22,
