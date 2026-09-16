@@ -946,6 +946,17 @@
     "jurisdiction": "Chicago-Mayor-"
   },
   {
+    "name": "Faiz Shareef",
+    "office": "mayor",
+    "ward": null,
+    "cycle": 2027,
+    "status": "",
+    "site": "http://shareefmayorchicago.com/",
+    "donate": "dr-faiz-shareef-1",
+    "stale": false,
+    "jurisdiction": "Chicago-Mayor-"
+  },
+  {
     "name": "Jabari Taylor",
     "office": "mayor",
     "ward": null,
