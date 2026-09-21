@@ -748,6 +748,17 @@
     "jurisdiction": "Chicago-Exec Coun-42"
   },
   {
+    "name": "Deborah Lane",
+    "office": "alderman",
+    "ward": 42,
+    "cycle": 2027,
+    "status": "",
+    "site": "",
+    "donate": "deborah-lane-1",
+    "stale": false,
+    "jurisdiction": "Chicago-Exec Coun-42"
+  },
+  {
     "name": "Michael Keating",
     "office": "alderman",
     "ward": 43,
@@ -933,6 +944,17 @@
     "donate": "valencia-for-chicago-1",
     "stale": false,
     "jurisdiction": "Chicago-Clerk-"
+  },
+  {
+    "name": "Bill Quinlan",
+    "office": "mayor",
+    "ward": null,
+    "cycle": 2027,
+    "status": "",
+    "site": "http://QuinlanforChicago.com",
+    "donate": "bill-quinlan-1",
+    "stale": false,
+    "jurisdiction": "Chicago-Mayor-"
   },
   {
     "name": "Brandon Johnson",
