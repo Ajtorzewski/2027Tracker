@@ -297,6 +297,17 @@
     "jurisdiction": "Chicago-Exec Coun-16"
   },
   {
+    "name": "Peter Barnes",
+    "office": "alderman",
+    "ward": 16,
+    "cycle": 2027,
+    "status": "",
+    "site": "http://Votepeterb16thward.com",
+    "donate": "peter-barnes-2",
+    "stale": false,
+    "jurisdiction": "Chicago-Exec Coun-16"
+  },
+  {
     "name": "Stephanie Coleman",
     "office": "alderman",
     "ward": 16,
