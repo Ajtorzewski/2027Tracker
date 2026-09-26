@@ -341,6 +341,17 @@
     "jurisdiction": "Chicago-Exec Coun-19"
   },
   {
+    "name": "Jillian Robinson",
+    "office": "alderman",
+    "ward": 19,
+    "cycle": 2027,
+    "status": "",
+    "site": "",
+    "donate": "jillian-robinson-1",
+    "stale": false,
+    "jurisdiction": "Chicago-Exec Coun-19"
+  },
+  {
     "name": "Matt O'Shea",
     "office": "alderman",
     "ward": 19,
