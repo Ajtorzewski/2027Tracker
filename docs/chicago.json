@@ -594,6 +594,17 @@
     "jurisdiction": "Chicago-Exec Coun-29"
   },
   {
+    "name": "James Morgan",
+    "office": "alderman",
+    "ward": 29,
+    "cycle": 2027,
+    "status": "",
+    "site": "http://Friendsofjamesm",
+    "donate": "james-morgan-3",
+    "stale": false,
+    "jurisdiction": "Chicago-Exec Coun-29"
+  },
+  {
     "name": "Ruth Cruz",
     "office": "alderman",
     "ward": 30,
