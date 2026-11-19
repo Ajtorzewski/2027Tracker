@@ -330,6 +330,17 @@
     "jurisdiction": "Chicago-Exec Coun-17"
   },
   {
+    "name": "Nicole Allison",
+    "office": "alderman",
+    "ward": 18,
+    "cycle": 2027,
+    "status": "",
+    "site": "https://www.electnicoleallison.com/",
+    "donate": "nicole-allison-1",
+    "stale": false,
+    "jurisdiction": "Chicago-Exec Coun-18"
+  },
+  {
     "name": "Erin Ross",
     "office": "alderman",
     "ward": 19,
