@@ -220,6 +220,17 @@
     "jurisdiction": "Chicago-Exec Coun-9"
   },
   {
+    "name": "Kenny Williams",
+    "office": "alderman",
+    "ward": 9,
+    "cycle": 2027,
+    "status": "",
+    "site": "http://people4kenny.com",
+    "donate": "kenny-williams-2",
+    "stale": false,
+    "jurisdiction": "Chicago-Exec Coun-9"
+  },
+  {
     "name": "Peter Chico",
     "office": "alderman",
     "ward": 10,
